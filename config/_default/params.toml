@@ -24,6 +24,7 @@ font = ""
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
 font_size = "M"
 
+
 ############################
 ## Basic Info
 ############################
@@ -256,3 +257,6 @@ plugins_js  = []
 [marketing]
   google_analytics = ""
   google_tag_manager = ""
+  
+  [icon.pack]
+   ai = true

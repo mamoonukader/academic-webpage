@@ -36,7 +36,6 @@ links:
 - name: Ungated
 url: files/Bayer_Luetticke_2019.pdf
 
-
 url_pdf:
 url_dataset:
 url_poster:

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+name: Ralph Luetticke
 
 # Username (this should match the folder name)
 authors:
@@ -10,52 +10,55 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Department of Economics
+  url: "https://www.ucl.ac.uk/economics/"
+- name: University College London
+  url: "https://www.ucl.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Ralph Luetticke is an Assistant Professor of Economics at University College London.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Business Cycles
+- Computational Methods
+- Financial Frictions
+- Fiscal and Monetary Policy
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Economics
+    institution: University of Bonn, Germany
+    year: 2016
+  - course: MSc in Economics
+    institution: University of Bonn, Germany
+    year: 2014
+  - course: BSc in International Economics
+    institution: University of Maastricht, The Netherlands
+    year: 2010
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:r.luetticke@ucl.ac.uk  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/RalphLuet
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=sg4uvMwAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ralphluet
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
@@ -64,12 +67,12 @@ social:
 email: ""
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
+#   Set this to `[]` or comment out if you are not using People widget.  
+<!-- user_groups:
 - Researchers
-- Visitors
+- Visitors -->
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ralph Luetticke is an Assistant Professor of Economics at UCL and affiliated with CEPR and CfM.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Full {{% staticref "files/cv_luetticke.pdf" %}}CV{{% /staticref %}}.

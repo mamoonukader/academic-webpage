@@ -32,10 +32,9 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Published Version
-url: "https://www.sciencedirect.com/science/article/abs/pii/S016518892030049X"
+  url: "https://www.sciencedirect.com/science/article/abs/pii/S016518892030049X"
 - name: Ungated
-url: files/discussion_jedc_luetticke.pdf
-
+  url: files/discussion_jedc_luetticke.pdf
 
 url_pdf:
 url_dataset:

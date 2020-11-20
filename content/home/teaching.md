@@ -26,7 +26,7 @@ Macroeconomics and Computational Methods at all levels.
 #### Perturbation Methods for Heterogeneous Agent Models
 
 The following lecture is a short-course on how to use perturbation methods to solve heterogeneous agent models. 
-https://github.com/ralphluet/KS_Perturbation_vs_MIT/Slides_BayerLuetticke.pdf
+https://github.com/ralphluet/KS_Perturbation_vs_MIT/blob/master/Slides_BayerLuetticke.pdf
 
 You can find the codes to implement this on GitHub as well:
 

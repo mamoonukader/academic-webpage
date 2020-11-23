@@ -16,7 +16,7 @@ publishDate: 2020-07-02T22:11:49+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***Quantitative Economics***, forthcoming"
+publication: "***Quantitative Economics***,  11, pp. 1253-1288"
 publication_short: ""
 
 abstract: "This paper describes a method for solving heterogeneous agent models with aggregate risk and many idiosyncratic states formulated in discrete time. It extends the method proposed by Reiter (2009) and complements recent work by Ahn et al. (2017) on how to solve such models in continuous time. We suggest first solving for the stationary equilibrium of the model without aggregate risk. We then write the functionals that describe the recursive equilibrium as sparse expansions around their stationary equilibrium counterparts. Finally we use the perturbation method of Schmitt-Grohé and Uribe (2004) to approximate the aggregate dynamics of the model."

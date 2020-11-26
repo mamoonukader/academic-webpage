@@ -34,7 +34,7 @@ links:
 - name: CEPR DP14364
   url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=14364"
 - name: Ungated
-  url: files/BBL_Inequality_Jan_2020.pdf
+  url: files/BBL_Inequality_Nov_2020.pdf
 - name: VoxEU
   url: "https://voxeu.org/article/shocks-frictions-and-inequality-us-business-cycles"
 

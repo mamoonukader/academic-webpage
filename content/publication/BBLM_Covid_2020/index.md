@@ -16,7 +16,7 @@ publishDate: 2019-11-01T22:11:49+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "***Economic Journal***, r&r"
 publication_short: ""
 
 abstract: "In response to the COVID-19 pandemic, large parts of the economy have been locked down and, as a result, households' income risk has risen sharply. At the same time, policy makers have put forward the largest stimulus package in history. In the U.S., it amounts to $2 trillion, a quarter of which is earmarked for transfer payments to households. To the extent that such transfers are conditional on recipients being unemployed, they mitigate income risk and the adverse impact of the lockdown ex ante. Unconditional transfers, in contrast, stabilize income ex post. We simulate the effects of a lockdown in a medium-scale HANK model and quantify the impact of transfers. For the short run, we find large differences in the transfer multiplier: it is 0.25 for unconditional transfers and 1.5 for conditional transfers. Overall, we find that the transfers reduce the output loss due to the pandemic by up to 5 percentage points."

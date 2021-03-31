@@ -3,7 +3,7 @@
 
 title: "Transmission of Monetary Policy with Heterogeneity in Household Portfolios"
 authors: ["Ralph Luetticke"]
-date: 2020-05-01
+date: 2021-03-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate: 2020-05-01T22:11:49+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***American Economic Journal: Macroeconomics***, forthcoming"
+publication: "***American Economic Journal: Macroeconomics***, 13 (2): 1-25 "
 publication_short: ""
 
 abstract: "This paper assesses the importance of heterogeneity in household portfolios for the transmission of monetary policy in a New Keynesian business cycle model with uninsurable income risk and assets with different liquidity. In this environment, monetary transmission works through investment, but redistribution lowers the elasticity of investment via two channels: 1) heterogeneity in marginal propensities to invest, 2) time variation in the liquidity premium. Monetary contractions redistribute to wealthy households who have high propensities to invest and  a low marginal value of liquidity, thereby stabilizing investment. I provide empirical evidence for counter-cyclical liquidity premia and heterogeneity in household portfolio responses."
@@ -32,7 +32,7 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Published Version
-  url: "https://www.aeaweb.org/articles?id=10.1257/mac.20190064&&from=f"
+  url: "https://www.aeaweb.org/articles?id=10.1257/mac.20190064"
 - name: Ungated
   url: files/RL_Transmission_2019.pdf
 

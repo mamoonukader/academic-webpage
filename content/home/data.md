@@ -34,7 +34,10 @@ Our structural model in {{% staticref "/publication/bbl_inequality_2020/" %}}Bay
 
 A measure of tax progressivity in the US, 1916-2017. In {{% staticref "/publication/bbl_inequality_2020/" %}}Bayer, Born, Luetticke (2020){{% /staticref %}} we extend the Mertens and Montiel Olea (2018)-calculations of average (ATR) and average marginal tax rates (AMTR) to the years 2013-2017 and with these calculate tax progressivity as in Ferriere and Navarro (2018) using the average and average marginal tax rate: P = (AMTR - ATR)/(1 - ATR).
 
-{{% staticref "files/progressivity_measures_all.xlsx" %}}Download data{{% /staticref %}}.
+{{% staticref "files/taxprog_model.csv" %}}Download quarterly data{{% /staticref %}}.
+
+{{% staticref "files/progressivity_measures_all.xlsx" %}}Download annual observations{{% /staticref %}}.
+
 
 Replication code: https://github.com/ralphluet/Tax-Progressivity-Construction
 

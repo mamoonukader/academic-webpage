@@ -14,7 +14,7 @@ header:
   caption: ""
   image: ""
 ---
-#### Autumn 2020
+#### Autumn 2021
 
 * Macroeconomics (MRes)
 * Economic Policy Analysis (BSc)
@@ -22,27 +22,6 @@ header:
 #### Past Teaching
 
 Macroeconomics and Computational Methods at all levels.
-
-#### Perturbation Methods for Heterogeneous Agent Models
-
-The following lecture is a short-course on how to use perturbation methods to solve heterogeneous agent models. 
-https://github.com/ralphluet/KS_Perturbation_vs_MIT/blob/master/Slides_BayerLuetticke.pdf
-
-You can find the codes to implement this on GitHub as well:
-
-Comparison of Perturbation vs MIT shock solution for Krusell-Smith model (Matlab)
-https://github.com/ralphluet/KS_Perturbation_vs_MIT
-	
-Perturbation solution with our reduction method for Krusell-Smith and HANK models (Matlab)
-https://github.com/ralphluet/perturbation_codes
-	
-Perturbation solution with our reduction method for HANK models (Python)
-https://github.com/econ-ark/BayerLuetticke
-
-Perturbation solution with our reduction method for estimating HANK models (Julia)
-https://github.com/BenjaminBorn/HANK_BusinessCycleAndInequality
-
-
 
 #### Thesis Supervision
 

@@ -25,14 +25,14 @@ for details.
 
 
 #### Inequality 
-Our structural model in {{% staticref "/publication/bbl_inequality_2020/" %}}Bayer, Born, Luetticke (2020){{% /staticref %}} allows us to generate a quarterly time series for US inequality from 1954-2019. The model replicates the annual observations on the US top 10% wealth and income shares from the World Inequality Database, and we can use the Kalman smoother to create a quarterly time series.
+Our structural model in {{% staticref "/publication/bbl_inequality_2020/" %}}Bayer, Born, Luetticke (2020){{% /staticref %}} allows us to generate a quarterly time series for US inequality from 1954-2019. The model replicates the annual observations on the US top 10% wealth and income shares from the World Inequality Database, and we can use the Kalman smoother to create a quarterly time series (done with the HANKXPlus model). 
 
 {{% staticref "files/inequality_model.csv" %}}Download data{{% /staticref %}}.
 
 
 #### Tax Progressivity
 
-Annual and quarterly measure of tax progressivity in the US, 1954-2019. In {{% staticref "/publication/bbl_inequality_2020/" %}}Bayer, Born, Luetticke (2020){{% /staticref %}} we first extend the Mertens and Montiel Olea (2018)-calculations of average (ATR) and average marginal tax rates (AMTR) to the years 2013-2017 and with these calculate tax progressivity as in Ferriere and Navarro (2018) using the average and average marginal tax rate: P = (AMTR - ATR)/(1 - ATR). This provides us with annual observations for the estimation of our HANK model, and we can use the Kalman smoother to create a quarterly time series. 
+Annual and quarterly measure of tax progressivity in the US, 1954-2019. In {{% staticref "/publication/bbl_inequality_2020/" %}}Bayer, Born, Luetticke (2020){{% /staticref %}} we first extend the Mertens and Montiel Olea (2018)-calculations of average (ATR) and average marginal tax rates (AMTR) to the years 2013-2017 and with these calculate tax progressivity as in Ferriere and Navarro (2018) using the average and average marginal tax rate: P = (AMTR - ATR)/(1 - ATR). This provides us with annual observations for the estimation of our HANK model, and we can use the Kalman smoother to create a quarterly time series (done with the HANKXPlus model). 
 
 {{% staticref "files/taxprog_model.csv" %}}Download quarterly data{{% /staticref %}}.
 

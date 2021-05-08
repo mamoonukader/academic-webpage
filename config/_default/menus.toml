@@ -28,9 +28,19 @@
   url = "#code"
   weight = 50
 
-  [[main]]
+[[main]]
   name = "Data"
   url = "#code"
+  weight = 50
+
+[[main]]
+  name = "Blog"
+  url = "#blog"
+  weight = 50
+
+[[main]]
+  name = "VMACS"
+  url = "#vmacs"
   weight = 50
 
 [[main]]

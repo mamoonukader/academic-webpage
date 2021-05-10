@@ -30,7 +30,7 @@
 
 [[main]]
   name = "Data"
-  url = "#code"
+  url = "#data"
   weight = 50
 
 [[main]]
@@ -39,13 +39,13 @@
   weight = 50
 
 [[main]]
-  name = "VMACS"
-  url = "#vmacs"
+  name = "Teaching"
+  url = "#teaching"
   weight = 50
 
 [[main]]
-  name = "Teaching"
-  url = "#teaching"
+  name = "VMACS"
+  url = "#vmacs"
   weight = 50
 
 [[main]]

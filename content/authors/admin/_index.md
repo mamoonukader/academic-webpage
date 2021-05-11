@@ -23,10 +23,10 @@ organizations:
 bio: Ralph Luetticke is an Assistant Professor of Economics at University College London.
 
 interests:
-- Business Cycles
-- Computational Methods
-- Financial Frictions
+- Macroeconomics
+- Inequality
 - Fiscal and Monetary Policy
+- Computational Methods
 
 education:
   courses:
@@ -73,6 +73,8 @@ email: ""
 - Visitors -->
 ---
 
-Ralph Luetticke is an Assistant Professor of Economics at UCL and affiliated with CEPR and CfM.
+Ralph Luetticke is an Assistant Professor of Economics at UCL and affiliated with Centre for Economic Policy Research and Centre for Macroeconomics.
 
-Full {{% staticref "files/cv_luetticke.pdf" %}}CV{{% /staticref %}}.
+His research addresses core questions in macroeconomics about the conduct of fiscal and monetary policy as well as the sources of business cycles with new tools that allow us to take household heterogeneity into account in the model and the data.
+
+{{% staticref "files/cv_luetticke.pdf" %}}Curriculum Vitae{{% /staticref %}}

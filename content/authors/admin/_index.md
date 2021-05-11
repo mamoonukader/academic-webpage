@@ -73,7 +73,7 @@ email: ""
 - Visitors -->
 ---
 
-Ralph Luetticke is an Assistant Professor of Economics at UCL and affiliated with Centre for Economic Policy Research and Centre for Macroeconomics.
+Ralph Luetticke is an Assistant Professor of Economics at UCL and affiliated with the Centre for Economic Policy Research and the Centre for Macroeconomics.
 
 His research addresses core questions in macroeconomics about the conduct of fiscal and monetary policy as well as the sources of business cycles with new tools that allow us to take household heterogeneity into account in models and data.
 

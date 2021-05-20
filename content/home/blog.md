@@ -16,6 +16,8 @@ header:
 ---
 These writings provide an accessible summary to my research.
 
+{{% staticref "https://voxeu.org/article/public-debt-and-economic-recovery" %}} VoxEU blog post{{% /staticref %}}  summarizing my research on the economic consequences of rising public debt in the US. Based one my research paper {{% staticref "/publication/BBL_FISCAL_2020/" %}}Bayer, Born, Luetticke (2021){{% /staticref %}}.
+
 {{% staticref "https://voxeu.org/article/impact-us-coronavirus-stimulus-package" %}} VoxEU blog post{{% /staticref %}}  on the aggregate and distributional consequences of the CARES stimulus package in the US. Based one my research paper {{% staticref "/publication/BBLM_Covid_2020/" %}}Bayer, Born, Luetticke, Mueller (2020){{% /staticref %}}.
 
 {{% staticref "https://voxeu.org/article/shocks-frictions-and-inequality-us-business-cycles" %}} VoxEU blog post{{% /staticref %}}  on US business cycles and inequality through the lens of an estimated HANK model. Based one my research paper {{% staticref "/publication/BBL_Inequality_2020/" %}}Bayer, Born, Luetticke (2020){{% /staticref %}}.

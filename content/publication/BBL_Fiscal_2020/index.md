@@ -35,8 +35,8 @@ links:
   url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=14883"
 - name: Ungated
   url: files/BBL_Fiscal_Liquidity_April_2021.pdf
-#- name: VoxEU
-#  url: "https://voxeu.org/article/shocks-frictions-and-inequality-us-business-cycles"
+- name: VoxEU
+  url: "https://voxeu.org/article/public-debt-and-economic-recovery"
 
 url_pdf:
 url_code:

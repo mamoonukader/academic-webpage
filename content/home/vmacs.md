@@ -15,4 +15,4 @@ header:
   image: ""
 ---
 #### Virtual Macro Seminar
-I am a co-organizer of the VMACS seminar series. Check out our {{% staticref "http://www.virtualmacro.org/" %}} website{{% /staticref %}} to see the great line up of macro speakers. Follow VMACS on Twitter {{% staticref " https://twitter.com/virtualmacrosem" %}} @virtualmacrosem{{% /staticref %}} and watch past seminars on our {{% staticref " https://www.youtube.com/channel/UCo_KoJ89CTJPLA6LguTbhwA" %}} YouTube channel{{% /staticref %}}.
+I am a co-organizer of the VMACS seminar series. Check out our {{% staticref "http://www.virtualmacro.org/" %}} website{{% /staticref %}} to see the great line up of macro speakers. Follow VMACS on Twitter {{% staticref " https://twitter.com/virtualmacrosem" %}} @virtualmacrosem{{% /staticref %}} and watch past seminars on our {{% staticref "https://www.youtube.com/channel/UCo_KoJ89CTJPLA6LguTbhwA" %}} YouTube channel{{% /staticref %}}.

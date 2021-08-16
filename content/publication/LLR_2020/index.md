@@ -3,7 +3,7 @@
 
 title: "Financial Frictions: Macro vs Micro Volatility"
 authors: ["Seungcheol Lee", "Ralph Luetticke", "Morten Ravn"]
-date: 2020-08-12
+date: 2021-08-12
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "We examine the impact of frictional financial intermediation in a HANK model. An incentive problem restricts banking sector leverage and gives rise to an equilibrium spread between the returns on savings and debt. The size of this spread impacts on the wealth distribution and movements in it subject borrowers and savers to different intertemporal prices. The model generates a financial accelerator that is larger than in a representative agent setting, derives mainly from consumption rather than investment, and works through a countercyclical interest rate spread. Credit policy can mute this mechanism while stricter regulation of banking sector leverage inhibits households' ability to smooth consumption in response to idiosyncratic risk. Thus, although leverage restrictions stabilize at the aggregate level, we find substantial welfare costs."
+abstract: "We introduce frictional financial intermediation into a HANK model. Households are subject to idiosyncratic and aggregate risk and smooth consumption through savings and consumer loans intermediated by banks. The banking friction introduces an endogenous countercyclical spread between the interest rate on savings and on loans. This interacts with incomplete markets because borrowers and savers face different intertemporal prices, and induces a time-varying mass point of high MPC households. Aggregate shocks through their impact on the spread give rise to consumption inequality. We show this mechanism to be empirically relevant. Ex-ante macro prudential regulation reduces welfare by reducing consumption smoothing."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -34,7 +34,7 @@ links:
 - name: CEPR DP15133
   url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=15133"
 - name: Ungated
-  url: files/LLR_August_2020.pdf
+  url: files/LLR_2021.pdf
 #- name: VoxEU
 #  url: "https://voxeu.org/article/shocks-frictions-and-inequality-us-business-cycles"
 
